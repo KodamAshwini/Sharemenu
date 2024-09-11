@@ -4,6 +4,7 @@
 }
 body{
     background-color: rgb(35, 35, 35);
+    background-attachment: fixed;
 }
 #img{
     margin-left: 10vw;
