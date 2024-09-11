@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(35, 35, 35);
+}
+#img{
+    margin-left: 10vw;
+    margin-top: 3vw;
+    width: 80vw;
+    height: 44vw;
+    background-image: url(./Assert/backgroundimage.png);
+    filter: blur(0.2vw);
+    background-size: 100% 100%;
+    /* background-color: red; */
+   
+    
+}
+#sqr{
+    width: 30vw;
+    height: 70vh;
+    background-color: rgb(154, 148, 148);
+    margin-left: 35vw;
+    /* margin-top: ; */
+    /* padding-top: -100px; */
+     transform: translate(0px,-38vw);
+    /* filter: none; */ 
+    border-radius: 0.5vw;
+    
+    
+}
+#cross{
+    width: 1.3vw;
+    height: 1.3vw;
+    margin-left: 28vw;
+    margin-top: 1vw;
+    color: azure;
+}
+#alimg{
+    width: 15vw;
+    height: 10vw;
+    margin-left: 7vw;
+    margin-top: -5vw;
+    border: 1vw solid rgb(174, 164, 164);
+    border-radius: 0.8vw;
+    
+}
+#text{
+    color: white;
+    font-size: 2vw;
+    font-weight: bold;
+    margin-left: 8vw;
+    margin-top: 2vw;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#icons{
+    width: 100%;
+    height: 2vw;
+    /* float: left; */
+    margin-top: 0.5vw;
+    margin-left: 8vw;
+    /* background-color: red; */
+}
+.ic{
+    width: 2vw;
+    height: 2vw;
+    float: left;
+    padding: 1vw;
+}
+#te{
+    font-size: 1vw;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin-left: 12vw;
+    margin-top: 3vw;
+}
+#box{
+    width: 22vw;
+    height: 4vw;
+    background-color: rgb(111, 110, 113);
+    margin-left: 4vw;
+    margin-top: 2vw;
+    border-radius: 1vw;
+    /* box-shadow: 2px 2px 2px rgb(84, 82, 82); */
+}
+#c{
+    color: white;
+    background-color: blue;
+    border-radius: 1vw;
+    width: 3vw;
+    height: 1vw;
+    padding: 0.5vw;
+    padding-top: 0.2vw;
+    font-weight: bold;
+    margin-left: 21vw;
+    margin-top: -3vw;
+}
+#link{
+    color: white;
+    margin-left: 6vw;
+    margin-top: -1.4vw;
+}
